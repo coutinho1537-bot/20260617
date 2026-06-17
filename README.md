@@ -1,2 +1,2 @@
 # 20260617
-Pythin Study for Data School 05
+Python Study for Data School 05
